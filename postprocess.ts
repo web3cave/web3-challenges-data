@@ -7,9 +7,9 @@ const filename = Deno.args[0]; // Same name as downloaded_filename
 const json = await readJSON(filename);
 
 const myFeed = new Feed({
-    title: "Dao Tools RSS",
-    description: "A DAO Tools list.",
-    link: "https://web3cave.github.io/flat-data-template/data.xml",
+    title: "Web3 Challengess RSS",
+    description: "A  web3-challenges list.",
+    link: "https://web3cave.github.io/web3-challenges-data/data.xml",
     updated: new Date()
 });
 
