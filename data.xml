@@ -4,21 +4,21 @@
         <title>Web3 Challengess RSS</title>
         <link>https://web3cave.github.io/web3-challenges-data/data.xml</link>
         <description>A  web3-challenges list.</description>
-        <lastBuildDate>Tue, 02 Aug 2022 06:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:36:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[CRYPTOHACK]]></title>
             <link>https://cryptohack.org/challenges/</link>
             <guid>https://cryptohack.org/challenges/</guid>
-            <pubDate>Tue, 02 Aug 2022 06:16:37 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:36:07 GMT</pubDate>
             <description><![CDATA[A fun, free platform for learning modern cryptography]]></description>
         </item>
         <item>
             <title><![CDATA[Cipher Shastra]]></title>
             <link>https://ciphershastra.com/</link>
             <guid>https://ciphershastra.com/</guid>
-            <pubDate>Tue, 02 Aug 2022 06:16:37 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:36:07 GMT</pubDate>
             <description><![CDATA[A Smart Contract Security Playground
 
 Cipher Shastra is a playground where anyone can enhance their Security Skills by solving and learning from CTF like challenges.
@@ -30,14 +30,14 @@ The playground is open source and anyone can contribute challenges to it Twitter
             <title><![CDATA[VyperFun]]></title>
             <link>https://vyper.fun/</link>
             <guid>https://vyper.fun/</guid>
-            <pubDate>Tue, 02 Aug 2022 06:16:37 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:36:07 GMT</pubDate>
             <description><![CDATA[Learn Vyper by building a Pokémon Game!]]></description>
         </item>
         <item>
             <title><![CDATA[The Ethernaut]]></title>
             <link>https://ethernaut.openzeppelin.com/</link>
             <guid>https://ethernaut.openzeppelin.com/</guid>
-            <pubDate>Tue, 02 Aug 2022 06:16:37 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:36:07 GMT</pubDate>
             <description><![CDATA[A Web3 based wargame played in the Ethereum Virtual Machine
 ]]></description>
         </item>
@@ -45,7 +45,7 @@ The playground is open source and anyone can contribute challenges to it Twitter
             <title><![CDATA[Etherhack]]></title>
             <link>https://etherhack.positive.com/</link>
             <guid>https://etherhack.positive.com/</guid>
-            <pubDate>Tue, 02 Aug 2022 06:16:37 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:36:07 GMT</pubDate>
             <description><![CDATA[At PHDays security conference a new contest called EtherHack was held, to solve all tasks which featured smart contract vulnerabilities.
 ]]></description>
         </item>
@@ -53,7 +53,7 @@ The playground is open source and anyone can contribute challenges to it Twitter
             <title><![CDATA[Damn Vulnerable DeFi]]></title>
             <link>https://www.damnvulnerabledefi.xyz/</link>
             <guid>https://www.damnvulnerabledefi.xyz/</guid>
-            <pubDate>Tue, 02 Aug 2022 06:16:37 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:36:07 GMT</pubDate>
             <description><![CDATA[Damn Vulnerable DeFi is the wargame to learn offensive security of DeFi smart contracts.
 
 Throughout numerous challenges you will build the skills to become a bug hunter or security auditor in the space.
@@ -63,14 +63,14 @@ Throughout numerous challenges you will build the skills to become a bug hunter 
             <title><![CDATA[CryptoZombies]]></title>
             <link>https://cryptozombies.io/</link>
             <guid>https://cryptozombies.io/</guid>
-            <pubDate>Tue, 02 Aug 2022 06:16:37 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:36:07 GMT</pubDate>
             <description><![CDATA[Learn to Code Blockchain DApps By Building Simple Games]]></description>
         </item>
         <item>
             <title><![CDATA[Capture the Ether]]></title>
             <link>https://capturetheether.com/</link>
             <guid>https://capturetheether.com/</guid>
-            <pubDate>Tue, 02 Aug 2022 06:16:37 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 06:36:07 GMT</pubDate>
             <description><![CDATA[Capture the Ether is a game in which you hack Ethereum smart contracts to learn about security.
 ]]></description>
         </item>
